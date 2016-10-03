@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gympy: Code for integrating OpenAI Gym and GPy
+title: "Gympy: Code for integrating OpenAI Gym and GPy"
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This site will contain updates on using OpenAI gym and GPy for reinforcement learning.
@@ -24,4 +24,4 @@ github_username:  janithPan
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
